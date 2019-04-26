@@ -54,7 +54,7 @@ _Visualization of policy on non-centered digit classification task for T=8. (a) 
 ### Playing _Catch_
 
 #### Experiments
-Hyper-parameters |
+Hyper-parameters | values
 --- | --- 
 Glimpse size | 6x6 
 Glimpse scale | 3
