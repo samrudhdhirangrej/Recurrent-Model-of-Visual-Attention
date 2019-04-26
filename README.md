@@ -4,7 +4,7 @@
  
 ## Recurrent Attention Model
  
-<img src="images/model.png" width=70% align="middle"/>
+<img src="images/model.png" width=90% align="middle"/>
  
 ## Implementation Details
 - RAM for classification is defined in [`RAM.py`](RAM.py)
@@ -49,6 +49,7 @@ Number of glimpses | Centered digit | Translated digit | Cluttered and Translate
 
 #### Visualization
 <img src="images/classification.png" width=70% align="middle"/>
+
 _Visualization of policy on non-centered digit classification task for T=8. (a) Digit with gaze track (b) individual glimpses. Each column shows single glimpse with patches of decreasing scale from top to bottom. Intermediate predictions are shown on the top._
 
 ### Playing _Catch_
