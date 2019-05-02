@@ -7,7 +7,7 @@ from torchvision import datasets, transforms
 from torchvision.utils import save_image
 import numpy as np
 from torch.distributions.normal import Normal
-from RMVA import MODEL, LOSS, adjust_learning_rate
+from RAM import MODEL, LOSS, adjust_learning_rate
 from random import shuffle
                 
 batch_size = 128
